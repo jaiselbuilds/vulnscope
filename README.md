@@ -10,14 +10,14 @@ security professionals explore publicly disclosed vulnerabilities and
 organize locally managed security reviews.
 
 - **Live Site:** [VulnScope](https://vulnscope-d4xk.onrender.com/)
-- **Repository:** [jpaintsil-neu/vulnscope](https://github.com/jpaintsil-neu/vulnscope)
+- **Repository:** [jaiselbuilds/vulnscope](https://github.com/jaiselbuilds/vulnscope)
 - **Final Review:** October 18, 2026
 
 ## Authors
 
 ### John Paintsil
 
-- GitHub: [jpaintsil-neu](https://github.com/jpaintsil-neu)
+- GitHub: [jaiselbuilds](https://github.com/jaiselbuilds)
 - Responsibility: Vulnerability Awareness & Triage workspace.
 - Shared work: initial Figma mockups, site layout, supporting pages,
   documentation, and deployment coordination.
@@ -180,7 +180,7 @@ connection, and internet access for the NVD import.
 
 ```bash
 # Clone and install.
-git clone https://github.com/jpaintsil-neu/vulnscope.git
+git clone https://github.com/jaiselbuilds/vulnscope.git
 cd vulnscope
 npm ci
 cp .env.example .env
