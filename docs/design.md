@@ -16,12 +16,12 @@ About, Resources, and FAQs add context and portfolio value.
 
 ## Responsibilities
 
-| Contributor   | Main responsibility                        |
-| ------------- | ------------------------------------------ |
-| John Paintsil | Vulnerability Awareness & Triage workspace |
-| Sania Anwar   | Product & Technology workspace             |
+| Contributor | Main responsibility                        |
+| ----------- | ------------------------------------------ |
+| Kosolume    | Vulnerability Awareness & Triage workspace |
+| Sania Anwar | Product & Technology workspace             |
 
-John also created the initial mockups and index, shared layout, supporting
+Kosolume also created the initial mockups and index, shared layout, supporting
 pages, repository documentation, and deployment/validation notes. Sania owns
 Products code and its completion/validation notes.
 
