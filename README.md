@@ -15,7 +15,7 @@ organize locally managed security reviews.
 
 ## Authors
 
-### Kosolume
+### John Paintsil
 
 - GitHub: [kosolume](https://github.com/kosolume)
 - Responsibility: Vulnerability Awareness & Triage workspace.
@@ -327,7 +327,7 @@ homepage search and Products views need their own final manual confirmation.
 
 ## Peer Code Review
 
-Kosolume submitted a peer review of
+John Paintsil submitted a peer review of
 [OpenSlots](https://github.com/OpenSlots-Dev/openslots), developed by
 Ankita Mandalam and Agilan Balaraman.
 
@@ -364,7 +364,7 @@ See [development screenshots](docs/dev.md) and [Figma design mockups](docs/mocku
 
 ### How Generative AI Was Used
 
-- Kosolume — ChatGPT was used as an iterative development assistant by supporting tasks such as reviewing project requirements, planning and organizing information architecture, and refining design documentation to enhance overall project quality and accessibility.
+- John Paintsil — ChatGPT was used as an iterative development assistant by supporting tasks such as reviewing project requirements, planning and organizing information architecture, and refining design documentation to enhance overall project quality and accessibility.
 
 - Sania Anwar - I used Claude to organize the README and design documentation on github. I also used it to help me with the database connection issues.
 
