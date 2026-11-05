@@ -4,7 +4,7 @@
 
 ## Peer Code Review
 
-- **Reviewer:** John Paintsil.
+- **Reviewer:** Kosolume.
 - **Reviewed project:** [OpenSlots](https://github.com/OpenSlots-Dev/openslots).
 - **Project authors:** Ankita Mandalam and Agilan Balaraman.
 - **Submitted:** October 28, 2026.
@@ -42,7 +42,7 @@ a full OpenSlots database/browser regression or a new VulnScope regression.
 ## Final Repository Review — October 18
 
 Reviewed application snapshot:
-[`ccfe03b1859c9f86fe92d0220352191b5a18a03b`](https://github.com/jpaintsil-neu/vulnscope/commit/ccfe03b1859c9f86fe92d0220352191b5a18a03b).
+[`ccfe03b1859c9f86fe92d0220352191b5a18a03b`](https://github.com/kosolume/vulnscope/commit/ccfe03b1859c9f86fe92d0220352191b5a18a03b).
 This documentation update leaves application code unchanged.
 
 - ESLint and Prettier verification passed on that snapshot.
@@ -72,18 +72,18 @@ This review does not repeat write operations against the live database or
 establish a complete Products regression. Final manual confirmation of the
 latest homepage search, public deliverable permissions, submission receipts,
 runtime acceptance, and the official freeze deadline remains with the team.
-John's assigned peer review was submitted on October 28.
+Kosolume's assigned peer review was submitted on October 28.
 See [Peer Code Review](#peer-code-review) for the pull request and scope.
 
 ## Scope and Responsibilities
 
 The HTML and local code-quality results below describe the October 14
 development checkpoint. The hosted deployment checks describe the October 15
-Render and MongoDB Atlas checkpoint. These results cover John's completed
+Render and MongoDB Atlas checkpoint. These results cover Kosolume's completed
 workflow; combined application validation after Products integration remains
 pending. Record the deployed commit from Render with the final evidence.
 
-John's recorded checks cover the Homepage, Vulnerabilities workspace,
+Kosolume's recorded checks cover the Homepage, Vulnerabilities workspace,
 shared layout, About, Resources, and FAQs. Products implementation and
 validation belong to Sania; no Products completion is claimed here.
 
@@ -96,7 +96,7 @@ accessibility, security, or deployment requirements are fully satisfied.
 
 ## Local Code Quality Checks
 
-The following commands completed successfully in John's local repository
+The following commands completed successfully in Kosolume's local repository
 on October 14 and again on October 15 before the deployment-documentation commit:
 
 | Check      | Command                | Recorded result                           |
@@ -187,7 +187,7 @@ extension-related messages.
 
 ## Earlier Reported Functional Checks
 
-John previously reported successful local checks covering:
+Kosolume previously reported successful local checks covering:
 
 - NVD sample conversion and the import of 1,500 CVE records.
 - Public CVE search, severity filters, pagination, and detail navigation.
@@ -205,7 +205,7 @@ pending combined build in this validation checkpoint.
 
 ## Hosted Deployment Validation
 
-On October 15, 2026, John reported successful checks against the publicly
+On October 15, 2026, Kosolume reported successful checks against the publicly
 hosted application after correcting its deployment configuration.
 
 - **Application:** https://vulnscope-d4xk.onrender.com/
@@ -230,7 +230,7 @@ hosted application after correcting its deployment configuration.
 
 The hosted screenshot showed 1,500 matching records, populated table rows,
 the severity distribution, and page 1 of 75. The remaining hosted workflow
-results were reported by John after manual browser checks.
+results were reported by Kosolume after manual browser checks.
 
 The initial hosted data request failed. After the deployment configuration
 was corrected, public records loaded successfully. The exact configuration
@@ -254,7 +254,7 @@ on the live HTTPS application:
 | SameSite         | `Strict`                     |
 
 Render showed a successful deployment of commit
-[`8b9791e`](https://github.com/jpaintsil-neu/vulnscope/commit/8b9791edfb0affef4e002e07c4047529b26ec14f),
+[`8b9791e`](https://github.com/kosolume/vulnscope/commit/8b9791edfb0affef4e002e07c4047529b26ec14f),
 which updated the README and hosted validation documentation.
 
 Committed evidence:
@@ -264,7 +264,7 @@ Committed evidence:
 
 ## Hosted Responsive and Keyboard Checks
 
-On October 15, 2026, John reported successful manual checks on the live
+On October 15, 2026, Kosolume reported successful manual checks on the live
 Render application.
 
 | Check                                                       | Result |
@@ -301,7 +301,7 @@ Production configuration review remains pending.
 
 ### Local Usability Follow-up — October 15, 2026
 
-John reported passing manual checks for:
+Kosolume reported passing manual checks for:
 
 - Empty search results and recovery through Clear Filters.
 - Failed-request feedback and recovery through Try again.
@@ -326,7 +326,7 @@ this local follow-up. Record the resulting commit after committing.
 | Regression                       | Hosted Vulnerabilities checks passed on October 15. Repeat affected checks after further changes and Products integration.                                                                                                           |
 | Accessibility and responsiveness | Hosted responsive, zoom, and keyboard checks passed on October 15. Verify screen-reader announcements and measured color contrast; repeat affected checks after changes.                                                             |
 | Additional rendered states       | Visible server-side field errors, loading/empty/failure states, and separately captured rendered Home/About/Resources/FAQs views are not established by the recorded snapshots.                                                      |
-| Products                         | Sania verifies her independent collection, APIs, forms, ownership, and CRUD. John does not implement Products without Prof. Gomez's authorization.                                                                                   |
+| Products                         | Sania verifies her independent collection, APIs, forms, ownership, and CRUD. Kosolume does not implement Products without Prof. Gomez's authorization.                                                                               |
 | Combined application             | Verify both workspaces and all navigation after Products integration.                                                                                                                                                                |
 | Security and configuration       | Environment-file checks and Git-history credential scan completed. Review production configuration and repeat scanning after further changes.                                                                                        |
 | Deployment                       | Vulnerabilities is live with 1,500 imported records; hosted browsing, guest CRUD, persistence, and separate-browser isolation passed. HTTPS cookie attributes confirmed. Verify the combined application after Products integration. |
