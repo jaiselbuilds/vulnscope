@@ -13,6 +13,14 @@ organize locally managed security reviews.
 - **Repository:** [kosolume/vulnscope](https://github.com/kosolume/vulnscope)
 - **Final Review:** October 18, 2026
 
+## Screenshot
+
+### Homepage
+
+![homepage thumbnail](public/images/screenshots/thumbnail.png)
+
+See [development screenshots](docs/dev.md) and [Figma design mockups](docs/mockup.md).
+
 ## Authors
 
 ### John Paintsil
@@ -338,14 +346,6 @@ Ankita Mandalam and Agilan Balaraman.
 - **Status:** Open; awaiting maintainer review as of October 28.
 
 See the [review details and validation](docs/validation.md#peer-code-review).
-
-## Screenshot
-
-### Homepage
-
-![homepage thumbnail](public/images/screenshots/thumbnail.png)
-
-See [development screenshots](docs/dev.md) and [Figma design mockups](docs/mockup.md).
 
 ## Presentation and Demo Video
 
